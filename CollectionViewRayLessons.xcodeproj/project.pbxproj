@@ -13,6 +13,7 @@
 		EE435ECA26D097C5007E54F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE435EC826D097C5007E54F8 /* Main.storyboard */; };
 		EE435ECC26D097C7007E54F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE435ECB26D097C7007E54F8 /* Assets.xcassets */; };
 		EE435ECF26D097C7007E54F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE435ECD26D097C7007E54F8 /* LaunchScreen.storyboard */; };
+		EE435ED726D0A6F2007E54F8 /* NumberCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE435ED626D0A6F2007E54F8 /* NumberCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE435ECB26D097C7007E54F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE435ECE26D097C7007E54F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE435ED026D097C7007E54F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE435ED626D0A6F2007E54F8 /* NumberCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EE435EC426D097C5007E54F8 /* SceneDelegate.swift */,
 				EE435EC626D097C5007E54F8 /* ViewController.swift */,
 				EE435EC826D097C5007E54F8 /* Main.storyboard */,
+				EE435ED626D0A6F2007E54F8 /* NumberCell.swift */,
 				EE435ECB26D097C7007E54F8 /* Assets.xcassets */,
 				EE435ECD26D097C7007E54F8 /* LaunchScreen.storyboard */,
 				EE435ED026D097C7007E54F8 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE435ED726D0A6F2007E54F8 /* NumberCell.swift in Sources */,
 				EE435EC726D097C5007E54F8 /* ViewController.swift in Sources */,
 				EE435EC326D097C5007E54F8 /* AppDelegate.swift in Sources */,
 				EE435EC526D097C5007E54F8 /* SceneDelegate.swift in Sources */,
